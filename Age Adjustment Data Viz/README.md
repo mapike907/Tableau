@@ -1,6 +1,6 @@
 # Data-Visualization Utilizing Tableau
 
-This code produces outputs that are used in Tableau to create data visualization for Vaccine Breakthrough. This file shows the outputs created from this code and Tableau manipulation. Requires `VB_144_DataViz_ageadj.sas` program under Data Requests '12.21_VB_Age_Adjustment` to get outputs for Tableau.
+This code produces outputs that are used in Tableau to create data visualization for Vaccine Breakthrough. This file shows the outputs created from this code and Tableau manipulation. Requires `VB_144_DataViz_ageadj.sas` program under Data Requests "12.21_VB_Age_Adjustment" to get outputs for Tableau.
 
 ![](Images/VB_DataViz_Slide1.png)
 
