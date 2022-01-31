@@ -57,10 +57,10 @@ Data analysis performed on January 20, 2022 from cedrs_view, filtering on variab
 | | VBB: Obtained monthly population data from ciis.vaxunvax_aug13booster utilizing a summation of variable “cumulative_received_booster” for each each age group (agegrp) by month. |
 | | Unvaccinated: obtained monthly population data from ciis.vaxunvax_population_byage utilizing a summation of variable “total_not_fully_vaccinated” for each age group (agegrp) by month.
 | Age Adjustment Calcuations, VB, VBB Unvaccinated | Obtained cases_per100k for Cases & Hospitalizations
-Obtained cases_per1M for Deaths
-Assign age groups (agegrp) a weight (weight) value based upon CDC Population data. 
-Cases_wt = cases_per100k*weight or cases_wt = cases_per1M*weight
-Summation of all age group case_wt per month yields the Age Adjustment Rate. |
+||Obtained cases_per1M for Deaths |
+||Assign age groups (agegrp) a weight (weight) value based upon CDC Population data. |
+||Cases_wt = cases_per100k*weight or cases_wt = cases_per1M*weight |
+||Summation of all age group case_wt per month yields the Age Adjustment Rate. |
 
 
 
