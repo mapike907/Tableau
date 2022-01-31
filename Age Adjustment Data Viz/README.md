@@ -1,6 +1,6 @@
-# Data-Requests
+# Data-Visualization Utilizing Tableau
 
-This code produces outputs that are used in Tableau to create data visualization for Vaccine Breakthrough.
+This code produces outputs that are used in Tableau to create data visualization for Vaccine Breakthrough. This file shows the outputs created from this code and Tableau manipulation. 
 
 ![](Images/VB_DataViz_Slide1.png)
 
