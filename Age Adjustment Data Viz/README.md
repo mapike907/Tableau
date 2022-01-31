@@ -4,7 +4,7 @@ This code produces outputs that are used in Tableau to create data visualization
 
 ![](Images/VB_DataViz_Slide1.png)
 
-![](Images/VB_DataViz_Slide2.png)
+![](Images/VB_DataViz_Slide1.png)
 
 
 
